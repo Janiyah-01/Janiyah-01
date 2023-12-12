@@ -1,6 +1,6 @@
 
   ![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)
-  <h1 align="center">Welcome , I'm Janith viranga</h1>
+  <h1 align="center">Welcome 🙏, I'm Janith viranga</h1>
 
 
 
